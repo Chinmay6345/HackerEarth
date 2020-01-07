@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro and Array Update", "Micro and Array Update\Micro and Array Update.csproj", "{9F8D49A4-02C5-4F4B-A1C0-3421DE8E2B02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zooos", "zooos\zooos.csproj", "{E671EFB4-BCF1-45AA-B401-9DDAC7B13F0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9F8D49A4-02C5-4F4B-A1C0-3421DE8E2B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F8D49A4-02C5-4F4B-A1C0-3421DE8E2B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F8D49A4-02C5-4F4B-A1C0-3421DE8E2B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E671EFB4-BCF1-45AA-B401-9DDAC7B13F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E671EFB4-BCF1-45AA-B401-9DDAC7B13F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E671EFB4-BCF1-45AA-B401-9DDAC7B13F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E671EFB4-BCF1-45AA-B401-9DDAC7B13F0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
