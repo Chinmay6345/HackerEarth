@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax", "MinMax\MinMax.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 Arrays", "2 Arrays\2 Arrays.csproj", "{712ADC13-9737-4384-8078-6FBEB29B3840}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumita and equal array", "Sumita and equal array\Sumita and equal array.csproj", "{11B283B1-04A5-4706-90B9-6F6E0E517BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What is your mobile number", "What is your mobile number\What is your mobile number.csproj", "{D0BCE083-F989-4D53-9215-90CC897127FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{712ADC13-9737-4384-8078-6FBEB29B3840}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{712ADC13-9737-4384-8078-6FBEB29B3840}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{712ADC13-9737-4384-8078-6FBEB29B3840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B283B1-04A5-4706-90B9-6F6E0E517BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B283B1-04A5-4706-90B9-6F6E0E517BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B283B1-04A5-4706-90B9-6F6E0E517BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B283B1-04A5-4706-90B9-6F6E0E517BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0BCE083-F989-4D53-9215-90CC897127FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BCE083-F989-4D53-9215-90CC897127FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BCE083-F989-4D53-9215-90CC897127FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BCE083-F989-4D53-9215-90CC897127FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
