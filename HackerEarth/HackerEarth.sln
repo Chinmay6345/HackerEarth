@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Search", "Simple Sea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeated K times", "Repeated K times\Repeated K times.csproj", "{2223CB64-54AA-406D-83B4-B5129342022E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest in Peace", "Rest in Peace\Rest in Peace.csproj", "{A9171B34-A816-4420-9877-0EB8808FA500}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{2223CB64-54AA-406D-83B4-B5129342022E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2223CB64-54AA-406D-83B4-B5129342022E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2223CB64-54AA-406D-83B4-B5129342022E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9171B34-A816-4420-9877-0EB8808FA500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9171B34-A816-4420-9877-0EB8808FA500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9171B34-A816-4420-9877-0EB8808FA500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9171B34-A816-4420-9877-0EB8808FA500}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
