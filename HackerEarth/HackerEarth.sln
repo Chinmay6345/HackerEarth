@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeated K times", "Repeate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest in Peace", "Rest in Peace\Rest in Peace.csproj", "{A9171B34-A816-4420-9877-0EB8808FA500}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphanumeric Strings", "Alphanumeric Strings\Alphanumeric Strings.csproj", "{D3341AAC-6F42-4F5E-8838-5E1867F388B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{A9171B34-A816-4420-9877-0EB8808FA500}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9171B34-A816-4420-9877-0EB8808FA500}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9171B34-A816-4420-9877-0EB8808FA500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3341AAC-6F42-4F5E-8838-5E1867F388B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3341AAC-6F42-4F5E-8838-5E1867F388B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3341AAC-6F42-4F5E-8838-5E1867F388B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3341AAC-6F42-4F5E-8838-5E1867F388B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
