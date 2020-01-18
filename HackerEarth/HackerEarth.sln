@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphanumeric Strings", "Alp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "To Make Anagrams", "To Make Anagrams\To Make Anagrams.csproj", "{76F359F8-D838-4C92-A265-EFDFCFBC2DC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min-Max", "Min-Max\Min-Max.csproj", "{D104B289-C161-4C2E-B67F-D9F3439DF337}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{76F359F8-D838-4C92-A265-EFDFCFBC2DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76F359F8-D838-4C92-A265-EFDFCFBC2DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76F359F8-D838-4C92-A265-EFDFCFBC2DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D104B289-C161-4C2E-B67F-D9F3439DF337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D104B289-C161-4C2E-B67F-D9F3439DF337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D104B289-C161-4C2E-B67F-D9F3439DF337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D104B289-C161-4C2E-B67F-D9F3439DF337}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
