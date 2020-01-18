@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "To Make Anagrams", "To Make
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min-Max", "Min-Max\Min-Max.csproj", "{D104B289-C161-4C2E-B67F-D9F3439DF337}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Sum", "Array Sum\Array Sum.csproj", "{BFF002F2-D3D0-4424-A17B-D0E234982C52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D104B289-C161-4C2E-B67F-D9F3439DF337}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D104B289-C161-4C2E-B67F-D9F3439DF337}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D104B289-C161-4C2E-B67F-D9F3439DF337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF002F2-D3D0-4424-A17B-D0E234982C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF002F2-D3D0-4424-A17B-D0E234982C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF002F2-D3D0-4424-A17B-D0E234982C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF002F2-D3D0-4424-A17B-D0E234982C52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
