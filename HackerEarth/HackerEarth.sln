@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min-Max", "Min-Max\Min-Max.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Sum", "Array Sum\Array Sum.csproj", "{BFF002F2-D3D0-4424-A17B-D0E234982C52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rajan and odd frequency number", "Rajan and odd frequency number\Rajan and odd frequency number.csproj", "{4B464FB7-31FC-47F8-AA04-B325EC9F3D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-1", "21-1\21-1.csproj", "{3D8D0757-F43A-456C-AD1B-B24EA4732466}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{BFF002F2-D3D0-4424-A17B-D0E234982C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFF002F2-D3D0-4424-A17B-D0E234982C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFF002F2-D3D0-4424-A17B-D0E234982C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B464FB7-31FC-47F8-AA04-B325EC9F3D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B464FB7-31FC-47F8-AA04-B325EC9F3D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B464FB7-31FC-47F8-AA04-B325EC9F3D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B464FB7-31FC-47F8-AA04-B325EC9F3D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8D0757-F43A-456C-AD1B-B24EA4732466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8D0757-F43A-456C-AD1B-B24EA4732466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8D0757-F43A-456C-AD1B-B24EA4732466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8D0757-F43A-456C-AD1B-B24EA4732466}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
