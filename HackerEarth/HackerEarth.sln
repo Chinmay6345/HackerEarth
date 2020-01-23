@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-1", "21-1\21-1.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monk Teaches Palindrome", "Monk Teaches Palindrome\Monk Teaches Palindrome.csproj", "{064C199A-DC22-4AC0-812C-065739618667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Special shop", "Special shop\Special shop.csproj", "{98CE27E3-3DFA-45AB-8021-53351C102DA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{064C199A-DC22-4AC0-812C-065739618667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{064C199A-DC22-4AC0-812C-065739618667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{064C199A-DC22-4AC0-812C-065739618667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CE27E3-3DFA-45AB-8021-53351C102DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CE27E3-3DFA-45AB-8021-53351C102DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CE27E3-3DFA-45AB-8021-53351C102DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CE27E3-3DFA-45AB-8021-53351C102DA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
