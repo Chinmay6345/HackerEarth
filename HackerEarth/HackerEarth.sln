@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monk Teaches Palindrome", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Special shop", "Special shop\Special shop.csproj", "{98CE27E3-3DFA-45AB-8021-53351C102DA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Determining numbers", "Determining numbers\Determining numbers.csproj", "{FAC5547B-1D75-4D03-8664-9740512698D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{98CE27E3-3DFA-45AB-8021-53351C102DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98CE27E3-3DFA-45AB-8021-53351C102DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98CE27E3-3DFA-45AB-8021-53351C102DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC5547B-1D75-4D03-8664-9740512698D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC5547B-1D75-4D03-8664-9740512698D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC5547B-1D75-4D03-8664-9740512698D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC5547B-1D75-4D03-8664-9740512698D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
