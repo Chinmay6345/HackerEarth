@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Special shop", "Special sho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Determining numbers", "Determining numbers\Determining numbers.csproj", "{FAC5547B-1D75-4D03-8664-9740512698D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maximm Occurrence", "maximm Occurrence\maximm Occurrence.csproj", "{DA67E338-C768-4C08-8703-337F7D7C644F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{FAC5547B-1D75-4D03-8664-9740512698D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAC5547B-1D75-4D03-8664-9740512698D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAC5547B-1D75-4D03-8664-9740512698D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA67E338-C768-4C08-8703-337F7D7C644F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA67E338-C768-4C08-8703-337F7D7C644F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA67E338-C768-4C08-8703-337F7D7C644F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA67E338-C768-4C08-8703-337F7D7C644F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
