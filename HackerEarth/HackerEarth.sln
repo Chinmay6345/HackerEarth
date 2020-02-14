@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sahils's computer address",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final Product", "Final Product\Final Product.csproj", "{F960AFEB-57B7-4AE1-9B17-11B9FABC99F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complete String", "Complete String\Complete String.csproj", "{BAFB2800-0EDB-4DCF-8CA6-6D5F7705CB6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{F960AFEB-57B7-4AE1-9B17-11B9FABC99F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F960AFEB-57B7-4AE1-9B17-11B9FABC99F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F960AFEB-57B7-4AE1-9B17-11B9FABC99F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFB2800-0EDB-4DCF-8CA6-6D5F7705CB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFB2800-0EDB-4DCF-8CA6-6D5F7705CB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFB2800-0EDB-4DCF-8CA6-6D5F7705CB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFB2800-0EDB-4DCF-8CA6-6D5F7705CB6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
