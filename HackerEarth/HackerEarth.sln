@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complete String", "Complete
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monk and Lucky Minimum", "Monk and Lucky Minimum\Monk and Lucky Minimum.csproj", "{98923DD4-3791-443F-9324-326D5AAF2016}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Life, the Universe, and Everything", "Life, the Universe, and Everything\Life, the Universe, and Everything.csproj", "{A108361A-9A9F-4E3C-9F57-0FB66F41B3F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{98923DD4-3791-443F-9324-326D5AAF2016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98923DD4-3791-443F-9324-326D5AAF2016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98923DD4-3791-443F-9324-326D5AAF2016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A108361A-9A9F-4E3C-9F57-0FB66F41B3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A108361A-9A9F-4E3C-9F57-0FB66F41B3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A108361A-9A9F-4E3C-9F57-0FB66F41B3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A108361A-9A9F-4E3C-9F57-0FB66F41B3F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
