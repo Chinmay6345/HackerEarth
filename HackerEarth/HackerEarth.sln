@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final Product", "Final Prod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complete String", "Complete String\Complete String.csproj", "{BAFB2800-0EDB-4DCF-8CA6-6D5F7705CB6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monk and Lucky Minimum", "Monk and Lucky Minimum\Monk and Lucky Minimum.csproj", "{98923DD4-3791-443F-9324-326D5AAF2016}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{BAFB2800-0EDB-4DCF-8CA6-6D5F7705CB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAFB2800-0EDB-4DCF-8CA6-6D5F7705CB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAFB2800-0EDB-4DCF-8CA6-6D5F7705CB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98923DD4-3791-443F-9324-326D5AAF2016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98923DD4-3791-443F-9324-326D5AAF2016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98923DD4-3791-443F-9324-326D5AAF2016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98923DD4-3791-443F-9324-326D5AAF2016}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
