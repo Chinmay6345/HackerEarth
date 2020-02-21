@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doctors's medicine", "Docto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome String", "Palindrome String\Palindrome String.csproj", "{80922161-ECFA-4475-A455-1D55C9DACD24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime Numbers", "Prime Numbers\Prime Numbers.csproj", "{572E5CB8-140E-47B6-B93C-998EFD358A32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{80922161-ECFA-4475-A455-1D55C9DACD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80922161-ECFA-4475-A455-1D55C9DACD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80922161-ECFA-4475-A455-1D55C9DACD24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572E5CB8-140E-47B6-B93C-998EFD358A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572E5CB8-140E-47B6-B93C-998EFD358A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572E5CB8-140E-47B6-B93C-998EFD358A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572E5CB8-140E-47B6-B93C-998EFD358A32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
