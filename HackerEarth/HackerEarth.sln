@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime Numbers", "Prime Numb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Strings", "Two Strings\Two Strings.csproj", "{682C29E5-8675-4806-82D9-503402FCFFF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy Sum Set Problem", "Easy Sum Set Problem\Easy Sum Set Problem.csproj", "{18D50416-D0D0-4959-AC59-206F9D89595F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{682C29E5-8675-4806-82D9-503402FCFFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{682C29E5-8675-4806-82D9-503402FCFFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{682C29E5-8675-4806-82D9-503402FCFFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D50416-D0D0-4959-AC59-206F9D89595F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D50416-D0D0-4959-AC59-206F9D89595F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D50416-D0D0-4959-AC59-206F9D89595F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D50416-D0D0-4959-AC59-206F9D89595F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
