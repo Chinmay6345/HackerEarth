@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy Sum Set Problem", "Eas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fun with Strings", "Fun with Strings\Fun with Strings.csproj", "{D1974708-B5BC-4ED5-8D44-3536A7148603}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mark the answer", "Mark the answer\Mark the answer.csproj", "{26FBD9A9-B359-4603-BB20-EF6B7712EB05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{D1974708-B5BC-4ED5-8D44-3536A7148603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1974708-B5BC-4ED5-8D44-3536A7148603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1974708-B5BC-4ED5-8D44-3536A7148603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26FBD9A9-B359-4603-BB20-EF6B7712EB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FBD9A9-B359-4603-BB20-EF6B7712EB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FBD9A9-B359-4603-BB20-EF6B7712EB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FBD9A9-B359-4603-BB20-EF6B7712EB05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
