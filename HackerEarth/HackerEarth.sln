@@ -81,6 +81,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "March Onwards", "March Onwa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statistics", "Statistics\Statistics.csproj", "{6B51F75F-3F4A-469D-BB6A-7FB84F910C04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chotu and Palindromic Strings", "Chotu and Palindromic Strings\Chotu and Palindromic Strings.csproj", "{745F8148-1DFB-49AF-9BED-A9DA235E9A54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -239,12 +241,17 @@ Global
 		{6B51F75F-3F4A-469D-BB6A-7FB84F910C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B51F75F-3F4A-469D-BB6A-7FB84F910C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B51F75F-3F4A-469D-BB6A-7FB84F910C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745F8148-1DFB-49AF-9BED-A9DA235E9A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745F8148-1DFB-49AF-9BED-A9DA235E9A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745F8148-1DFB-49AF-9BED-A9DA235E9A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745F8148-1DFB-49AF-9BED-A9DA235E9A54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6B51F75F-3F4A-469D-BB6A-7FB84F910C04} = {72A5013E-F066-4E71-AB51-4762B9FC4B24}
+		{745F8148-1DFB-49AF-9BED-A9DA235E9A54} = {72A5013E-F066-4E71-AB51-4762B9FC4B24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {745730DE-1C3E-42F8-9A39-6F238D9D116A}
