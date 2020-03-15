@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ali and Helping innocent pe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speed", "Speed\Speed.csproj", "{55247E57-CF9D-4358-BEBF-D7FBE440ABE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chandu and his Girlfriend Returns", "Chandu and his Girlfriend Returns\Chandu and his Girlfriend Returns.csproj", "{BCA9F946-7638-45AF-B8EA-38CC20CC34FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -257,6 +259,10 @@ Global
 		{55247E57-CF9D-4358-BEBF-D7FBE440ABE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55247E57-CF9D-4358-BEBF-D7FBE440ABE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55247E57-CF9D-4358-BEBF-D7FBE440ABE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA9F946-7638-45AF-B8EA-38CC20CC34FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA9F946-7638-45AF-B8EA-38CC20CC34FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA9F946-7638-45AF-B8EA-38CC20CC34FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA9F946-7638-45AF-B8EA-38CC20CC34FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
