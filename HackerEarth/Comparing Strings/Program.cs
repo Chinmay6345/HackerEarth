@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //https://www.hackerearth.com/problem/algorithm/comparing-strings-1/
 /*You are given two strings, A and B. Find if there is a substring that appears in both A and B.
