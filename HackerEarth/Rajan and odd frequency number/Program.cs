@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 //https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/danny-and-his-loneliness/
@@ -26,10 +27,20 @@ namespace Rajan_and_odd_frequency_number
     {
         public static void Main(String[] args)
         {
-            Int32 n = Convert.ToInt32(Console.ReadLine());
-            Int32[] array = Console.ReadLine().Split(new Char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(a => Convert.ToInt32(a)).ToArray<Int32>();
-            Int32 result = array.GroupBy(a => a).Where(a => a.Count() == 1).Select(a => Convert.ToInt32(a.Key.ToString())).First();
-            Console.WriteLine(result);
+            Int32[] array = { 1,2, 3, 2, 1 };
+            Dictionary<Int32, Int32> dict = new Dictionary<Int32, Int32>();
+            for(Int32 i=0;i<array.Length;i++)
+            {
+                if(dict.ContainsKey(array[i]))
+                {
+                    dict[array[i]]++;
+                }
+                else
+                {
+                    dict[array[i]] = 1;
+                }
+            }
+            Console.WriteLine(dict.Where(a => a.Value == 1).Select(a => a.Key).First()) ;
         }
     }
 }
