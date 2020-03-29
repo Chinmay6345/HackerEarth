@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparing Strings", "Compar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFibnonacci", "MyFibnonacci\MyFibnonacci.csproj", "{41BC465D-0F7F-44DC-A8BF-BDADC313E4D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count words in given String", "Count words in given String\Count words in given String.csproj", "{4C9553AB-4BD2-439D-B603-C63D1399E9FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -281,6 +283,10 @@ Global
 		{41BC465D-0F7F-44DC-A8BF-BDADC313E4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41BC465D-0F7F-44DC-A8BF-BDADC313E4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41BC465D-0F7F-44DC-A8BF-BDADC313E4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9553AB-4BD2-439D-B603-C63D1399E9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9553AB-4BD2-439D-B603-C63D1399E9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9553AB-4BD2-439D-B603-C63D1399E9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9553AB-4BD2-439D-B603-C63D1399E9FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -292,6 +298,7 @@ Global
 		{206E288E-9B2D-4D1E-8635-921C77A58F38} = {72A5013E-F066-4E71-AB51-4762B9FC4B24}
 		{A88FC110-16CE-4B83-BED5-128E3D2990FB} = {72A5013E-F066-4E71-AB51-4762B9FC4B24}
 		{41BC465D-0F7F-44DC-A8BF-BDADC313E4D7} = {72A5013E-F066-4E71-AB51-4762B9FC4B24}
+		{4C9553AB-4BD2-439D-B603-C63D1399E9FB} = {72A5013E-F066-4E71-AB51-4762B9FC4B24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {745730DE-1C3E-42F8-9A39-6F238D9D116A}
