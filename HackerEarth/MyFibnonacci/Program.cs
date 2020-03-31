@@ -73,3 +73,61 @@ namespace MyFibnonacci
         }
     }
 }
+/*
+Recursive version
+
+    public static class AppHelper
+{
+    public static Int32 A = 0;
+    public static Int32 B = 0;
+ 
+    public static int NthTerm(Int32 n )
+    {
+        Int32 [] F = new int[13];
+        Int32 A = AppHelper.A;
+        Int32 B = AppHelper.B;
+        for (int i = 0; i < 12; i++)
+        {
+            F[i] = -1;
+        }
+        if (n == 1)
+        {
+            F[n] = A;
+            return A;
+        }
+        if (n == 2)
+        {
+            F[n] = B;
+            return B;
+        }
+        else
+        {
+            if (F[n - 2] == -1)
+            {
+                F[n-2] = NthTerm(n-2);
+            }
+            if (F[n - 1] == -1)
+            {
+                F[n - 1] = NthTerm(n-1);
+            }
+            F[n] = F[n-2] + F[n-1];
+            return F[n-2] + F[n-1];
+        }
+    }
+}
+ 
+public class Program
+{
+    public static void Main(String [] args)
+    {
+        Int32 [] arr=Console.ReadLine()
+                .Split(' ')
+                .Select(a=>Convert.ToInt32(a))
+                .ToArray<Int32>();
+        AppHelper.A = arr[0];
+        AppHelper.B = arr[1];
+        Int32 nthTerm=AppHelper.NthTerm(arr[2]);
+        Console.WriteLine(nthTerm);
+    }
+}
+*/
