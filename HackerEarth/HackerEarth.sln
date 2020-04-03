@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFibnonacci", "MyFibnonacc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count words in given String", "Count words in given String\Count words in given String.csproj", "{4C9553AB-4BD2-439D-B603-C63D1399E9FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saxie and strings", "Saxie and strings\Saxie and strings.csproj", "{7237058A-1B0E-4DE8-8BF6-FCAD84B7E652}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -287,6 +289,10 @@ Global
 		{4C9553AB-4BD2-439D-B603-C63D1399E9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C9553AB-4BD2-439D-B603-C63D1399E9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C9553AB-4BD2-439D-B603-C63D1399E9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7237058A-1B0E-4DE8-8BF6-FCAD84B7E652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7237058A-1B0E-4DE8-8BF6-FCAD84B7E652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7237058A-1B0E-4DE8-8BF6-FCAD84B7E652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7237058A-1B0E-4DE8-8BF6-FCAD84B7E652}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
