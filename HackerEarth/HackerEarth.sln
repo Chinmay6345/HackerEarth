@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count words in given String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saxie and strings", "Saxie and strings\Saxie and strings.csproj", "{7237058A-1B0E-4DE8-8BF6-FCAD84B7E652}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xenny and Uniqueness", "Xenny and Uniqueness\Xenny and Uniqueness.csproj", "{EA0DAF0F-0738-41DD-BF95-719C2F657782}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -293,6 +295,10 @@ Global
 		{7237058A-1B0E-4DE8-8BF6-FCAD84B7E652}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7237058A-1B0E-4DE8-8BF6-FCAD84B7E652}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7237058A-1B0E-4DE8-8BF6-FCAD84B7E652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0DAF0F-0738-41DD-BF95-719C2F657782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0DAF0F-0738-41DD-BF95-719C2F657782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0DAF0F-0738-41DD-BF95-719C2F657782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0DAF0F-0738-41DD-BF95-719C2F657782}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
